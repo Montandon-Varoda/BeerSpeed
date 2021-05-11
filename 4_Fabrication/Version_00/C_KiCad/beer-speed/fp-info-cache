@@ -1,6 +1,13 @@
-18924676952827196
+18929539156192686
 Battery
 BAT_1043
+
+
+0
+2
+2
+Battery
+BS-7-ND-20mm
 
 
 0
@@ -50743,6 +50750,13 @@ LCD-016N002L 16 x 2 Character LCD
 24
 20
 Display
+LCD-S401C52TR
+
+
+0
+0
+0
+Display
 LCD2004A_BOT
 
 
@@ -76222,6 +76236,13 @@ SHT1x
 0
 8
 8
+Sensor
+TM1000Q
+Tilt switch | E-Switch
+
+0
+3
+3
 Sensor_Audio
 Infineon_PG-LLGA-5-1
 Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
