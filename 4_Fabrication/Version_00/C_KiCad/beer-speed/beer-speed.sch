@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 "Robin Forestier | Maxime Montandon | Kilyan De Blasio"
 $EndDescr
 $Comp
-L Device:C C1
+L archive:Device_C C1
 U 1 1 609937E9
 P 6600 2650
 F 0 "C1" V 6850 2650 50  0000 L CNN
@@ -27,7 +27,7 @@ F 5 "DigiKey" H 6600 2650 50  0001 C CNN "vendeur"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C C2
+L archive:Device_C C2
 U 1 1 609940B6
 P 6600 3050
 F 0 "C2" V 6850 3000 50  0000 L CNN
@@ -40,7 +40,7 @@ F 5 "DigiKey" H 6600 3050 50  0001 C CNN "vendeur"
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Crystal Y1
+L archive:Device_Crystal Y1
 U 1 1 6099431E
 P 6850 2850
 F 0 "Y1" V 7200 2850 50  0000 C CNN
@@ -53,7 +53,7 @@ F 5 "DigiKey" H 6850 2850 50  0001 C CNN "vendeur"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPDT SW1
+L archive:Switch_SW_SPDT SW1
 U 1 1 609952D2
 P 2900 1400
 F 0 "SW1" H 2900 1685 50  0000 C CNN
@@ -66,7 +66,7 @@ F 5 "DigiKey" H 2900 1400 50  0001 C CNN "vendeur"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_SPDT SW2
+L archive:Switch_SW_SPDT SW2
 U 1 1 60995CBA
 P 8950 4800
 F 0 "SW2" H 8950 5085 50  0000 C CNN
@@ -79,7 +79,7 @@ F 5 "DigiKey" H 8950 4800 50  0001 C CNN "vendeur"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:Battery_Cell BT1
+L archive:Device_Battery_Cell BT1
 U 1 1 60996023
 P 2300 1650
 F 0 "BT1" H 2418 1746 50  0000 L CNN
@@ -92,7 +92,7 @@ F 5 "DigiKey" H 2300 1650 50  0001 C CNN "vendeur"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Display_Character:LCD-S401C52TR P1
+L archive:Display_Character_LCD-S401C52TR P1
 U 1 1 609A8933
 P 2700 5950
 F 0 "P1" H 2700 7215 50  0000 C CNN
@@ -105,7 +105,7 @@ F 5 "DigiKey" H 2700 5950 50  0001 C CNN "vendeur"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATmega:ATmega4809-A U1
+L archive:MCU_Microchip_ATmega_ATmega4809-A U1
 U 1 1 609ABED1
 P 7850 3800
 F 0 "U1" H 7200 2350 50  0000 C CNN
@@ -170,7 +170,7 @@ Wire Wire Line
 Wire Wire Line
 	2200 5050 2300 5050
 $Comp
-L power:GND #PWR02
+L archive:power_GND #PWR02
 U 1 1 609C102E
 P 2300 1800
 F 0 "#PWR02" H 2300 1550 50  0001 C CNN
@@ -181,7 +181,7 @@ F 3 "" H 2300 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR09
+L archive:power_GND #PWR09
 U 1 1 609C1776
 P 2000 5050
 F 0 "#PWR09" H 2000 4800 50  0001 C CNN
@@ -192,7 +192,7 @@ F 3 "" H 2000 5050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3V0 #PWR01
+L archive:power_+3V0 #PWR01
 U 1 1 609C2EE0
 P 3200 1200
 F 0 "#PWR01" H 3200 1050 50  0001 C CNN
@@ -203,7 +203,7 @@ F 3 "" H 3200 1200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3V0 #PWR08
+L archive:power_+3V0 #PWR08
 U 1 1 609C5C85
 P 9300 4700
 F 0 "#PWR08" H 9300 4550 50  0001 C CNN
@@ -214,7 +214,7 @@ F 3 "" H 9300 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Net-Tie_2 NT1
+L archive:Device_Net-Tie_2 NT1
 U 1 1 609C5F35
 P 6350 3250
 F 0 "NT1" V 6300 2850 50  0000 L CNN
@@ -238,7 +238,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 3350 6350 3450
 $Comp
-L power:GND #PWR06
+L archive:power_GND #PWR06
 U 1 1 609C9A74
 P 6350 3450
 F 0 "#PWR06" H 6350 3200 50  0001 C CNN
@@ -514,7 +514,7 @@ Wire Wire Line
 Wire Wire Line
 	7850 2400 7850 2300
 $Comp
-L power:+3V0 #PWR03
+L archive:power_+3V0 #PWR03
 U 1 1 60A03461
 P 7850 2300
 F 0 "#PWR03" H 7850 2150 50  0001 C CNN
@@ -525,7 +525,7 @@ F 3 "" H 7850 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR010
+L archive:power_GND #PWR010
 U 1 1 60A07167
 P 7850 5300
 F 0 "#PWR010" H 7850 5050 50  0001 C CNN
@@ -539,7 +539,7 @@ Wire Wire Line
 	7850 5300 7850 5200
 NoConn ~ 7950 2400
 $Comp
-L Connector_Generic:Conn_02x03_Odd_Even J1
+L archive:Connector_Generic_Conn_02x03_Odd_Even J1
 U 1 1 60A21C4E
 P 2850 3450
 F 0 "J1" H 2650 3800 50  0000 C CNN
@@ -551,7 +551,7 @@ F 4 "DigiKey" H 2850 3450 50  0001 C CNN "vendeur"
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3V0 #PWR05
+L archive:power_+3V0 #PWR05
 U 1 1 609A547B
 P 3400 3300
 F 0 "#PWR05" H 3400 3150 50  0001 C CNN
@@ -566,7 +566,7 @@ Wire Wire Line
 Wire Wire Line
 	3400 3350 3400 3300
 $Comp
-L power:GND #PWR07
+L archive:power_GND #PWR07
 U 1 1 609A9D7D
 P 3400 3600
 F 0 "#PWR07" H 3400 3350 50  0001 C CNN
@@ -603,7 +603,7 @@ Text GLabel 2450 3350 0    50   Output ~ 0
 Text GLabel 2450 3450 0    50   Output ~ 0
 1G
 $Comp
-L Device:R R1
+L archive:Device_R R1
 U 1 1 609F3A24
 P 2200 3250
 F 0 "R1" H 2050 3300 50  0000 L CNN
@@ -622,7 +622,7 @@ Wire Wire Line
 	2200 3550 2650 3550
 Connection ~ 2200 3550
 $Comp
-L power:+3V0 #PWR04
+L archive:power_+3V0 #PWR04
 U 1 1 60A0755A
 P 2200 3050
 F 0 "#PWR04" H 2200 2900 50  0001 C CNN
