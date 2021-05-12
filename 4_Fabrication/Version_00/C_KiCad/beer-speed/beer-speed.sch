@@ -689,4 +689,58 @@ Text Notes 5750 1850 0    50   ~ 0
 Atmega\n
 Text Notes 4500 1100 0    276  ~ 55
 BeerSpeed
+$Comp
+L archive:Mechanical_MountingHole H1
+U 1 1 609C059A
+P 4700 6150
+F 0 "H1" H 4800 6196 50  0000 L CNN
+F 1 "MountingHole" H 4800 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4700 6150 50  0001 C CNN
+F 3 "~" H 4700 6150 50  0001 C CNN
+	1    4700 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Mechanical_MountingHole H2
+U 1 1 609C1485
+P 5500 6150
+F 0 "H2" H 5600 6196 50  0000 L CNN
+F 1 "MountingHole" H 5600 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5500 6150 50  0001 C CNN
+F 3 "~" H 5500 6150 50  0001 C CNN
+	1    5500 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Mechanical_MountingHole H3
+U 1 1 609C61A5
+P 4700 6500
+F 0 "H3" H 4800 6546 50  0000 L CNN
+F 1 "MountingHole" H 4800 6455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4700 6500 50  0001 C CNN
+F 3 "~" H 4700 6500 50  0001 C CNN
+	1    4700 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L archive:Mechanical_MountingHole H4
+U 1 1 609CAB8D
+P 5500 6500
+F 0 "H4" H 5600 6546 50  0000 L CNN
+F 1 "MountingHole" H 5600 6455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5500 6500 50  0001 C CNN
+F 3 "~" H 5500 6500 50  0001 C CNN
+	1    5500 6500
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4550 6700 6200 6700
+Wire Notes Line
+	6200 6700 6200 5950
+Wire Notes Line
+	6200 5950 4550 5950
+Wire Notes Line
+	4550 5950 4550 6700
+Text Notes 4550 5900 0    50   ~ 0
+trou de fixation
 $EndSCHEMATC

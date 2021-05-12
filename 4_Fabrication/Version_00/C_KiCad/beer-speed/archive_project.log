@@ -1,29 +1,30 @@
-05-12 08:17:04 archive_project.action_archive_project 101:Archive plugin version: 26 started
-05-12 08:17:06 archive_project.action_archive_project 157:Starting archiving only schematics
-05-12 08:17:06 archive_project.archive_project 131:Starting to archive symbols
-05-12 08:17:06 archive_project.archive_project 138:Pcb filename:C:\Users\FIX-4\Desktop\Github\BeerSpeed\4_Fabrication\Version_00\C_KiCad\beer-speed\beer-speed.kicad_pcb
-05-12 08:17:06 archive_project.archive_project 150:Kicad config path: C:\Users\FIX-4\AppData\Roaming\kicad
-05-12 08:17:06 archive_project.archive_project 208:project-archive.lib is already in the sym-lib-table, using its nickname
-05-12 08:17:06 archive_project.archive_project 228:Project cache library does not exists!
-05-12 08:17:07 archive_project.action_archive_project 165:Action plugin exiting due to error in schematics archiving part
-05-12 08:17:08 archive_project.action_archive_project 202:Starting 3D model archiving
-05-12 08:17:08 archive_project.archive_project 473:Starting to archive 3D models
-05-12 08:17:08 archive_project.archive_project 485:KISYS3DMOD path: C:\Users\FIX-4\Desktop\KICAD\Librairies\KICAD_LIB\kicad-packages3D
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: C:/Users/FIX-4/Desktop/Github/BeerSpeed/4_Fabrication/Version_00/C_KiCad/_3D_STEPS/BS-7.STEP
-05-12 08:17:08 archive_project.archive_project 565:Remapping: C:/Users/FIX-4/Desktop/Github/BeerSpeed/4_Fabrication/Version_00/C_KiCad/_3D_STEPS/BS-7.STEP
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/Crystal_SMD_HC49-SD.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/Crystal_SMD_HC49-SD.wrl
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/TQFP-48_7x7mm_P0.5mm.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/TQFP-48_7x7mm_P0.5mm.wrl
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/TM1000Q.stp
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/TM1000Q.stp
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/EG1213.stp
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/EG1213.stp
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/R_1206_3216Metric.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/R_1206_3216Metric.wrl
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/PinHeader_2x03_P2.54mm_Vertical.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/PinHeader_2x03_P2.54mm_Vertical.wrl
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
-05-12 08:17:08 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
-05-12 08:17:08 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
+05-12 13:52:14 archive_project.action_archive_project 101:Archive plugin version: 26 started
+05-12 13:52:18 archive_project.action_archive_project 157:Starting archiving only schematics
+05-12 13:52:18 archive_project.archive_project 131:Starting to archive symbols
+05-12 13:52:18 archive_project.archive_project 138:Pcb filename:C:/Users/FIX-4/Desktop/Github/BeerSpeed/4_Fabrication/Version_00/C_KiCad/beer-speed/beer-speed.kicad_pcb
+05-12 13:52:18 archive_project.archive_project 150:Kicad config path: C:\Users\FIX-4\AppData\Roaming\kicad
+05-12 13:52:18 archive_project.archive_project 208:project-archive.lib is already in the sym-lib-table, using its nickname
+05-12 13:52:18 archive_project.archive_project 309:found all subsheets
+05-12 13:52:18 archive_project.archive_project 317:Archiving file: C:\Users\FIX-4\Desktop\Github\BeerSpeed\4_Fabrication\Version_00\C_KiCad\beer-speed\beer-speed.sch
+05-12 13:52:18 archive_project.archive_project 458:Writing schematics file(s)
+05-12 13:52:19 archive_project.action_archive_project 202:Starting 3D model archiving
+05-12 13:52:19 archive_project.archive_project 473:Starting to archive 3D models
+05-12 13:52:19 archive_project.archive_project 485:KISYS3DMOD path: C:\Users\FIX-4\Desktop\KICAD\Librairies\KICAD_LIB\kicad-packages3D
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/BS-7.STEP
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/BS-7.STEP
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/Crystal_SMD_HC49-SD.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/Crystal_SMD_HC49-SD.wrl
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/TQFP-48_7x7mm_P0.5mm.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/TQFP-48_7x7mm_P0.5mm.wrl
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/TM1000Q.stp
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/TM1000Q.stp
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/EG1213.stp
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/EG1213.stp
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/R_1206_3216Metric.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/R_1206_3216Metric.wrl
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/PinHeader_2x03_P2.54mm_Vertical.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/PinHeader_2x03_P2.54mm_Vertical.wrl
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
+05-12 13:52:19 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
+05-12 13:52:19 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/C_0805_2012Metric.wrl
