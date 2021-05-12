@@ -1,6 +1,13 @@
-19128400929927105
+18929539158177526
 Battery
 BAT_1043
+
+
+0
+2
+2
+Battery
+BS-7-ND-20mm
 
 
 0
@@ -1589,6 +1596,13 @@ Switch
 4
 4
 Button_Switch_THT
+EG1213
+
+
+0
+5
+3
+Button_Switch_THT
 Eledis_1A11
 
 
@@ -1987,6 +2001,13 @@ DIP Switch SPST Slide 7.62mm 300mil
 0
 24
 24
+Button_Switch_THT
+SW_DP3T
+
+
+0
+8
+8
 Button_Switch_THT
 SW_E-Switch_EG1224_SPDT_Angled
 E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf
@@ -50729,6 +50750,13 @@ LCD-016N002L 16 x 2 Character LCD
 24
 20
 Display
+LCD-S401C52TR
+
+
+0
+40
+40
+Display
 LCD2004A_BOT
 
 
@@ -53574,6 +53602,13 @@ Inductor_SMD
 L_Wuerth_WE-TPC-3816
 L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
 wurth wuerth smd inductor
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE_PMI
+
+
 0
 2
 2
@@ -76201,6 +76236,13 @@ SHT1x
 0
 8
 8
+Sensor
+TM1000Q
+Tilt switch | E-Switch
+
+0
+3
+3
 Sensor_Audio
 Infineon_PG-LLGA-5-1
 Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
